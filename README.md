@@ -1,0 +1,1 @@
+This project's goal is to develop a page using HTML and CSS that looks identical to google's homepage. 
