@@ -1,0 +1,71 @@
+body {
+    font-family: arial; 
+}
+
+.logo {
+}
+
+.logo img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 109px;
+}
+
+.search_bar {
+
+}
+.search_bar input {
+    width: 460px;
+    height: 34px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 37px;
+    background-color: transparent;
+}
+
+.navigation {
+    position: absolute;
+    top: 5px;
+    width: 100%;
+    margin: 0;
+
+}
+
+li {
+    display: inline-block;
+    padding: 5px; 
+}
+
+.right {
+    float: right;
+    margin-right: 20px;
+}
+
+.left {
+    float: left;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: hsla(0, 0%, 83%, 0.5);
+}
+
+.buttons {
+    text-align: center;
+    padding-top: 10px;
+}
+
+button {
+    padding: 10px;
+    border: none;
+    background-color: #f8f8f8;
+}
+
+button:hover {
+    border: 1px solid grey;
+}
+
